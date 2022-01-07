@@ -461,6 +461,10 @@ a:link
     }
     .portada h1{font-size: 50px;
     text-align: center;}
+    .text-animado ul h3{
+        text-align: center;
+        margin-top: 5px;
+    }
     .c-container{
         width: 90%;
     }
