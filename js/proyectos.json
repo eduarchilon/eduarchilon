@@ -1,0 +1,76 @@
+[
+    {   
+        "id" : "1",
+        "informacion" : {
+            "imagen": "../assets/img/proyecto1.png",
+            "nombre" : "Prevent Health",
+            "referencia" : "Proyecto grupal universitario",
+            "descripcion" : "Página web informativa sobre el Covid-19. En esta página tendremos información sobre hospitales cercanos, calendario de vacunación, síntomas y otras enfermedades, así como también un formulario de contacto y consulta.",
+            "link" : "https://eduarchilon.github.io/preveentHealth/",
+            "repositorio" : "https://github.com/eduarchilon/preveentHealth"
+        },
+        "tecnologias" :{
+            "t1" : "Bootstrap 5 / JQuery"
+        }
+    },
+    
+    {
+        "id" : "2",
+        "informacion" : {
+            "imagen": "../assets/img/proyecto2.png",
+            "nombre" : "Reboot Comic Store",
+            "referencia" : "Proyecto individual en Coderhouse",
+            "descripcion" : "Esta página es una e-commerce de venta de comics de superhéroes en donde podremos ver el catálogo por categorías y de forma individual. Se podrá ver las características de cada producto, ir a la sección del carrito donde podremos eliminar ítems y enviar la orden para que nos dé un código de compra.",
+            "link" : "https://coderhouse-react-ecomerce.netlify.app/",
+            "repositorio" : "https://github.com/eduarchilon/cursoReact"
+        },
+        "tecnologias" :{
+            "t1" : "React / Frangment / Jquery / Context / Firebase / React-Router-DOM"
+        }
+    },
+
+    {
+        "id" : "3",
+        "informacion" : {
+            "imagen": "../assets/img/proyecto3.png",
+            "nombre" : "Recibo de haberes",
+            "referencia" : "Proyecto individual en Coderhouse",
+            "descripcion" : "Esta pagina es una interfaz de recibo de haberes en donde podremos cargar datos de personas y en base a su salario, descuentos y bonos poder verlos cargados en un recibo generado por el sistema.",
+            "link" : "https://eduarchilon.github.io/ProyectoCoderHouse-javascritp/",
+            "repositorio" : "https://github.com/eduarchilon/ProyectoCoderHouse-javascritp"
+        },
+        "tecnologias" :{
+            "t1" : "JavaScript / Jquery / JSON"
+        }
+    },
+
+    {
+        "id" : "4",
+        "informacion" : {
+            "imagen": "../assets/img/proyecto4.png",
+            "nombre" : "Ferretería MJÖLNIR",
+            "referencia" : "Proyecto individual universitario",
+            "descripcion" : "Esta pagina es solo el inicio (index) de un modelo de pagina para una ferretería.",
+            "link" : "https://eduarchilon.github.io/FerreteriaModel/",
+            "repositorio" : "https://github.com/eduarchilon/FerreteriaModel "
+        },
+        "tecnologias" :{
+            "t1" : "Bootstrap 5"
+        }
+    },
+
+    {
+        "id" : "5",
+        "informacion" : {
+            "imagen": "../assets/img/proyecto5.png",
+            "nombre" : "Our Opportunity",
+            "referencia" : "Proyecto individual universitario",
+            "descripcion" : "Esta página es solo el inicio (index) de un modelo de página para una consultora de Recursos Humanos.",
+            "link" : "https://eduarchilon.github.io/paginaRRHH/",
+            "repositorio" : "https://github.com/eduarchilon/paginaRRHH"
+        },
+        "tecnologias" :{
+            "t1" : "Bootstrap 5 / JQuery"
+        }
+    }
+]
